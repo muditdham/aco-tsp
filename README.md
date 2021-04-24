@@ -1,5 +1,5 @@
-# Solving Travelling Salesman Problem using Ant Colony Optimization
-Application of Ant Colony Optimization (ACO) for solving Travelling Salesman Problem (TSP)
+# Solving Traveling Salesman Problem using Ant Colony Optimization
+Application of Ant Colony Optimization (ACO) for solving Traveling Salesman Problem (TSP)
 
 | Filename | Description |
 | --- | --- |
